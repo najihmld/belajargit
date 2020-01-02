@@ -1,0 +1,12 @@
+{
+	"nama": "Moh. Najih maulida",
+	"umur": 21,
+	"skill": [{
+		"ketegori_skill": "desain",
+		"sub_skill": ["logo", "font", "template"]
+	}, {
+
+		"ketegori_skill": "programming",
+		"sub_skill": ["javascript", "php"]
+	}]
+}
